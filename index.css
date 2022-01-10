@@ -1,0 +1,21 @@
+.big_div{
+    border: solid;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    position: relative;
+    left: 500px;
+    background-color: black;
+    
+    
+}
+.big_div2{
+    border: none;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    position: relative;
+    right: 19px;
+    background-color: white;
+
+}
